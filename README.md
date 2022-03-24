@@ -17,6 +17,3 @@ To run:
 
 ## This is the code for PROG8110 Assignment 1. The original code is created by Pat Wilken. The original code link is below.
 <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
-
-This is the new line added in dev branch
-Added another line
